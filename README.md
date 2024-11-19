@@ -2,7 +2,7 @@
 
 ## Motivation
 Template for SPUD members to use to make the club website. 
-Club members (students) will develop a simple website build using Html + CSS + Basic Javascript.
+Club members (SPU students) will develop a simple website build using Html + CSS + Basic Javascript.
 
 ## Description
 Write html that represents
