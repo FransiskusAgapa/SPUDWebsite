@@ -15,7 +15,7 @@ Write JavaScript that smoothen the website (layout, effect)
 ## Assignment Requirements
 - Good programming practice
 - Readable indentation
-- Be Creative
+- Be Original & Creative
 
 ## Delivery Method
 - Feel free to clone this repo and publish in your repo with any changes you make.
