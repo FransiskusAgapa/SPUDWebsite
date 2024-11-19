@@ -7,7 +7,9 @@ Club members (SPU students) will develop a simple website build using Html + CSS
 ## Description
 Write html that represents
  - website structure (header, main, footer)
+   
 Write css that beautify the website
+
 Write JavaScript that smoothen the website (layout, effect)
 
 ## Assignment Requirements
