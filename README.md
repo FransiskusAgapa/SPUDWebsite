@@ -22,7 +22,7 @@ Write JavaScript that smoothen the website (layout, effect)
 https://github.com/user-attachments/assets/ba7907f7-6384-42c9-af26-067418ce8949
 
 ## Steps (recommendations)
-- Start with html template
+- Start with html template (think about the structure you'd want for the web to look like)
 - Link CSS file to 'color' the website
 - Link JavaScript file to maintain the website
 
